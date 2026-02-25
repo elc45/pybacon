@@ -1,1 +1,1 @@
-Run in an environment with `pymc`, `pytensor`, and `nutpie` installed.
+This project is inspired by the R package `bacon`. See the paper [here](https://projecteuclid.org/journals/bayesian-analysis/volume-6/issue-3/Flexible-paleoclimate-age-depth-models-using-an-autoregressive-gamma-process/10.1214/11-BA618.full) and the software [here](https://cran.r-project.org/web/packages/rbacon/index.html). Running the demo notebooks here requires an environment with `pymc`, `pytensor`, and `nutpie` installed.
